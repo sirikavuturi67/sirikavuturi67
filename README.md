@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sirikavuturi67
 - 👀 I’m interested in ...coding
-- 🌱 I'm new to all of this joined through coursera
 - 📫 How to reach me ...kavuturis@gmail.com
 
 <!---
