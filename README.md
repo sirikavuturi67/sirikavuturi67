@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sirikavuturi67
-- 👀 I’m interested in ...coding
 - 📫 How to reach me ...kavuturis@gmail.com
 
 <!---
